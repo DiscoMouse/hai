@@ -1,0 +1,18 @@
+# --- Standard Go Ignores ---
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+coverage.*
+*.coverprofile
+profile.cov
+
+# --- Environment & Editor ---
+.env
+.vscode/
+.idea/
+go.work
+go.work.sum
